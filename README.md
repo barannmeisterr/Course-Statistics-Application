@@ -7,10 +7,10 @@ This application provides statistical data on courses offered over the last five
 
 - Arda Baran
 ## Features
--**Get Statistics of All Offered Courses: Displays statistics for all courses from 2019 Fall to 2024 Spring.**
--**Search a Specific Course: Allows the user to search for a specific course and view its statistics.**
--**Get Statistics of All Courses in a Specific Term: Displays statistics for courses offered in a selected academic term.**
--**See Courses with Greatest Fail and Success Rates: Displays the courses with the highest and lowest success rates.**
+- **Get Statistics of All Offered Courses: Displays statistics for all courses from 2019 Fall to 2024 Spring.**
+- **Search a Specific Course: Allows the user to search for a specific course and view its statistics.**
+- **Get Statistics of All Courses in a Specific Term: Displays statistics for courses offered in a selected academic term.**
+- **See Courses with Greatest Fail and Success Rates: Displays the courses with the highest and lowest success rates.**
 - **LinearProbingHashTable:** A hash table implemented using linear probing to handle course statistics efficiently.
 - **AvlTree:** A self-balancing binary search tree used to store and retrieve course data efficiently.
 - **MinHeap and MaxHeap:** Priority queues used to identify the hardest and easiest courses, respectively.
